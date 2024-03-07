@@ -16,3 +16,18 @@ Repository Dessign Pattern
 Entity Framework Code First
 LINQ 
 SignalR
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/c93103f9-641f-4772-9114-73e74f14dde8)
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/228fcef8-31dd-4e57-b6a7-9e346ad62788)
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/7533bde0-1bde-426c-8e1e-6444660c05e9)
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/25678dc9-70a4-4327-86e6-c113fbda2e24)
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/cbe55f59-daaf-452a-8ea4-65d3e04668be)
+
+![image](https://github.com/receptuna/RestaurantSignalR/assets/2880274/c15869fa-42f4-42b0-b6c7-7d5a060fbdeb)
+
+
+
